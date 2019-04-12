@@ -2,32 +2,27 @@
 
  body {
    font-family: Josefin Sans;
-   /* max-width: 600px;
-   margin-left: 360px;
-   margin-top: 200px; */
-
  }
 
- #reservation {
-  display: block;
-  margin-bottom: 50px;
-  /* float:right; */
-
+#app-overview {
+  width: 608px;
 }
 
-#app-overview {
-
-  display: block;
-  margin-bottom: 50px;
+#reservation {
+    width: 350px;
+    position:fixed;
+    margin-top: 166px;
+    margin-right: 265px;
+    top:0;
+    right:0;
 }
 
 #menu {
-  display: block;
-  margin-bottom: 50px;
-}
+  margin-top: 100px;
+  margin-left: 200px;
+ }
 
-#app-reviews {
-  display: block;
-  margin-bottom: 50px;
+ #app-reviews {
+  margin-top: 100px;
+  margin-left: 200px;
 }
-
